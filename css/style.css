@@ -21,4 +21,5 @@ body{
 
 .section img{
   display: inline-block;
+  margin: 2em;
 }
